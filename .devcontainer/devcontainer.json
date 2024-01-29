@@ -20,8 +20,4 @@
 	    	]
 		}
 	 }
-    ,"mounts": [
-        "source=${localEnv:HOME}/.m2,target=/home/cle/.m2,type=bind,consistency=cached",
-        "source=${localEnv:HOME}/.gradle,target=/home/cle/.gradle,type=bind,consistency=cached"
-    ]
 }
