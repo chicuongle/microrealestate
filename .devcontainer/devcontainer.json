@@ -4,7 +4,7 @@
         "memory": "8gb",
         "storage": "32gb"
     },
-    "image": "echipdockerhub/baseworkspace:spa-1.1.1",
+    "image": "echipdockerhub/baseworkspace:spa-1.1.2",
     "name": "spa",
     "appPort": [
         "8001:8000"
